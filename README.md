@@ -1,1 +1,2 @@
 # shapes5.py
+#This is a benchmark, where we will be creating a new graphic window. I will also draw a different shape witha different color in each corner of the window and drawing a diamond perfectly centered in the middle of the window.
