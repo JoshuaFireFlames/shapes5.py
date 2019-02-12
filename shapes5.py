@@ -12,6 +12,10 @@ sqR = Rectangle(Point(900,100), Point( 800,200))
 sqR.setFill(color_rgb(255, 0,0))
 sqR.draw(window)
 
+ovM = Oval(Point(900,960), Point(800, 700))
+ovM.setFill(color_rgb(165,42,42))
+ovM.draw(window)
+
 
 
 window.getMouse()
