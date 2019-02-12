@@ -16,6 +16,10 @@ ovM = Oval(Point(900,960), Point(800, 700))
 ovM.setFill(color_rgb(165,42,42))
 ovM.draw(window)
 
+cirG = Circle(Point(100,900), 50)
+cirG.setFill(color_rgb(0,128,0))
+cirG.draw(window)
+
 
 
 window.getMouse()
