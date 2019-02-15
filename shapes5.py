@@ -20,6 +20,10 @@ cirG = Circle(Point(100,900), 50)
 cirG.setFill(color_rgb(0,128,0))
 cirG.draw(window)
 
+rombB = Polygon(Point(450,500), Point(500,600),Point(550,500), Point(500,400))
+rombB.setFill(color_rgb(30,30,230))
+rombB.draw(window)
+
 
 
 window.getMouse()
